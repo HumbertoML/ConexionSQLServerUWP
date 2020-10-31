@@ -22,10 +22,9 @@ namespace ConexionSQLServerUWP
     /// </summary>
     public sealed partial class MainPage : Page
     {
-        private string connectionString = @"Data Source=YourServerName\SQLEXPRESS;Initial Catalog=NORTHWIND;Integrated Security=SSPI";
         public MainPage()
         {
-            this.InitializeComponent();
+
         }
     }
 }
