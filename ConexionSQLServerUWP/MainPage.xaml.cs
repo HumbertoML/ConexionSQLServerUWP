@@ -24,6 +24,7 @@ namespace ConexionSQLServerUWP
     {
         public MainPage()
         {
+            this.InitializeComponent();
 
         }
     }
